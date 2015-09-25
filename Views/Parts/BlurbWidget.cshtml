@@ -1,0 +1,8 @@
+﻿@{
+    //Script.Require("BlurbWidget"); // code has been moved to isotope-init.js (in Cascade.Isotope)
+    Style.Require("BlurbWidget");
+}
+
+@*Content for the following div is provided via ajax*@
+<div class="blurb-widget" data-url='@Url.Content("~/cascade.blurb/blurbwidget/getitems")'>
+</div>

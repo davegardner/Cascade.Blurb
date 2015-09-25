@@ -1,0 +1,11 @@
+﻿Name: Cascade.Blurb
+AntiForgery: enabled
+Author: Dave Gardner
+Website: http://bigsitesdoneright.com
+Version: 1.0
+OrchardVersion: 1.7
+Description: Adds a Tag-driven Blurb for Clayton Tremlett
+Dependencies: Orchard.Tags
+Features:
+    Cascade.Blurb:
+        Description: Adds a Tag-driven Blurb for Clayton Tremlett
