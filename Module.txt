@@ -2,7 +2,7 @@
 AntiForgery: enabled
 Author: Dave Gardner
 Website: http://bigsitesdoneright.com
-Version: 1.1
+Version: 1.1.1
 OrchardVersion: 1.10
 Description: Adds a Tag-driven Blurb for Clayton Tremlett
 Dependencies: Orchard.Tags
